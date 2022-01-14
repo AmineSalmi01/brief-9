@@ -1,0 +1,40 @@
+#logo{
+    width: 90px;
+    height: 80px;
+}
+.img{
+    width: 350px;
+    height: 300px;
+    border-radius: 8px;
+}
+h2{
+    font-size: 70px;
+    margin-top: 100px;
+}
+span{
+    color: rgb(27, 170, 122);
+    margin: 140px;
+}
+#para{
+    color: #101820;
+    margin-top: 55px;
+    font-weight: lighter;
+}
+select{
+
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: rgb(27, 170, 122);
+    color: white;
+    border-radius: 5px;
+    padding-left: 4px;
+}
+#para2{
+    margin-top: 100px;
+    margin-left: 100px;
+    font-size: larger;
+}
+#meal img{
+    /* width: 100px; */
+}
